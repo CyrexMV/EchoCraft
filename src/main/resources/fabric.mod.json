@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "echocraft",
+	"version": "${version}",
+	"name": "EchoCraft",
+	"description": "This is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"de.cyrex.echocraft.EchoCraft"
+		],
+		"client": [
+			"de.cyrex.echocraft.EchoCraftClient"
+		],
+		"fabric-datagen": [
+			"de.cyrex.echocraft.EchoCraftDataGenerator"
+		]
+	},
+	"mixins": [
+		"echocraft.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
