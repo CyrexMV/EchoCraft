@@ -14,5 +14,8 @@
 
   "block.echocraft.sound_block": "Sound Block",
 
+  "block.echocraft.ruby_block": "Block of Ruby",
+  "block.echocraft.raw_ruby_block": "Block of Raw Ruby",
+
   "itemgroup.echocraft": "EchoCraft"
 }
