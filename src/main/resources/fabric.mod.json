@@ -22,7 +22,10 @@
 		],
 		"fabric-datagen": [
 			"de.cyrex.echocraft.EchoCraftDataGenerator"
-		]
+		],
+		"datagen": [
+			"de.cyrex.echocraft.EchoCraftDataGenerator"
+			]
 	},
 	"mixins": [
 		"echocraft.mixins.json"
