@@ -1,5 +1,7 @@
 package de.cyrex.echocraft;
 
+import de.cyrex.echocraft.item.ModItemGroups;
+import de.cyrex.echocraft.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +13,9 @@ public class EchoCraft implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
+
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
 
 	}
 }
