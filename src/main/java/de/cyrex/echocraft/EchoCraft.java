@@ -17,9 +17,7 @@ public class EchoCraft implements ModInitializer {
 	public void onInitialize() {
 
 		ModItemGroups.registerItemGroups();
-
 		ModItems.registerModItems();
-
 		ModBlocks.registerModBlocks();
 
 		FuelRegistry.INSTANCE.add(ModItems.COAL_BRIQUETTE, 200);
