@@ -1,5 +1,6 @@
 package de.cyrex.echocraft;
 
+import de.cyrex.echocraft.block.ModBlocks;
 import de.cyrex.echocraft.item.ModItemGroups;
 import de.cyrex.echocraft.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -16,6 +17,7 @@ public class EchoCraft implements ModInitializer {
 
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }

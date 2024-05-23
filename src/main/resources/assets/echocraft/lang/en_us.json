@@ -2,5 +2,8 @@
   "item.echocraft.ruby": "Ruby",
   "item.echocraft.raw_ruby": "Raw Ruby",
 
+  "block.echocraft.ruby_block": "Block of Ruby",
+  "block.echocraft.raw_ruby_block": "Block of Raw Ruby",
+
   "itemgroup.echocraft": "EchoCraft"
 }
