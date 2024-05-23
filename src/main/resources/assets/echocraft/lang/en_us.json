@@ -1,6 +1,16 @@
 {
   "item.echocraft.ruby": "Ruby",
   "item.echocraft.raw_ruby": "Raw Ruby",
+  "item.echocraft.metal_detector": "Metal Detector",
+
+  "block.echocraft.ruby_block": "Block of Ruby",
+  "block.echocraft.raw_ruby_block": "Block of Raw Ruby",
+  "block.echocraft.ruby_ore": "Ruby Ore",
+  "block.echocraft.deepslate_ruby_ore": "Deepslate Ruby Ore",
+  "block.echocraft.nether_ruby_ore": "Nether Ruby Ore",
+  "block.echocraft.end_stone_ruby_ore": "End Stone Ruby Ore",
+
+  "block.echocraft.sound_block": "Sound Block",
 
   "itemgroup.echocraft": "EchoCraft"
 }
