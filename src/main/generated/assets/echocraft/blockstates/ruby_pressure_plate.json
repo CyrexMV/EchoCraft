@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "echocraft:block/ruby_pressure_plate"
+    },
+    "powered=true": {
+      "model": "echocraft:block/ruby_pressure_plate_down"
+    }
+  }
+}

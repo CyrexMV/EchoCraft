@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "echocraft:block/ruby_slab"
+    },
+    "type=double": {
+      "model": "echocraft:block/ruby_block"
+    },
+    "type=top": {
+      "model": "echocraft:block/ruby_slab_top"
+    }
+  }
+}

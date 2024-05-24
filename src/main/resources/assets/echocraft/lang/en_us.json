@@ -13,6 +13,16 @@
   "block.echocraft.nether_ruby_ore": "Nether Ruby Ore",
   "block.echocraft.end_stone_ruby_ore": "End Stone Ruby Ore",
 
+  "block.echocraft.ruby_stairs": "Ruby Stairs",
+  "block.echocraft.ruby_slab": "Ruby Slab",
+  "block.echocraft.ruby_button": "Ruby Button",
+  "block.echocraft.ruby_pressure_plate": "Ruby Pressure Plate",
+  "block.echocraft.ruby_fence": "Ruby Fence",
+  "block.echocraft.ruby_fence_gate": "Ruby Fence Gate",
+  "block.echocraft.ruby_wall": "Ruby Wall",
+  "block.echocraft.ruby_door": "Ruby Door",
+  "block.echocraft.ruby_trapdoor": "Ruby Trapdoor",
+
   "block.echocraft.sound_block": "Sound Block",
 
   "itemgroup.echocraft": "EchoCraft"
