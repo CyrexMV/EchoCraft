@@ -22,6 +22,8 @@ public class ModModelProvider extends FabricModelProvider {
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.NETHER_RUBY_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.END_STONE_RUBY_ORE);
         blockStateModelGenerator.registerSimpleCubeAll(ModBlocks.SOUND_BLOCK);
+
+
     }
 
     @Override

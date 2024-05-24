@@ -11,6 +11,7 @@ import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
+
 public class ModItems {
     public static final Item RUBY = registerItem("ruby", new Item(new FabricItemSettings()));
 
@@ -22,6 +23,8 @@ public class ModItems {
 
     public static final Item COAL_BRIQUETTE = registerItem("coal_briquette",
             new Item(new FabricItemSettings()));
+
+
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {
         entries.add(RUBY);
