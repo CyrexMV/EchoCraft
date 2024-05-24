@@ -2,6 +2,7 @@ package de.cyrex.echocraft.item;
 
 import de.cyrex.echocraft.EchoCraft;
 import de.cyrex.echocraft.block.ModBlocks;
+import de.cyrex.echocraft.entity.ModEntities;
 import de.cyrex.echocraft.item.custom.MetalDetectorItem;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroupEntries;
@@ -52,6 +53,9 @@ public class ModItems {
 
     public static final Item CORN = registerItem("corn",
             new Item(new FabricItemSettings()));
+
+    public static final Item PORCUPINE_SPAWN_EGG = registerItem("porcupine_spawn_egg",
+            new SpawnEggItem(ModEntities.PORCUPINE, 0xa86518, 0x3b260f, new FabricItemSettings()));
 
 
     private static void addItemsToIngredientItemGroup(FabricItemGroupEntries entries) {

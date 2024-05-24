@@ -26,6 +26,7 @@ public class ModItemGroups {
                         entries.add(ModBlocks.RUBY_DOOR);
                         entries.add(ModBlocks.RUBY_TRAPDOOR);
                         entries.add(ModBlocks.DAHLIA);
+
                     }).build());
 
     public static final ItemGroup ToolsGroup= Registry.register(Registries.ITEM_GROUP,
@@ -44,6 +45,7 @@ public class ModItemGroups {
                         entries.add(ModItems.RUBY_CHESTPLATE);
                         entries.add(ModItems.RUBY_LEGGINGS);
                         entries.add(ModItems.RUBY_BOOTS);
+                        entries.add(ModItems.PORCUPINE_SPAWN_EGG);
                     }).build());
 
     public static final ItemGroup FoodGroup= Registry.register(Registries.ITEM_GROUP,
