@@ -1,5 +1,6 @@
-// 1.20.1	2024-05-24T18:40:55.1642018	EchoCraft/Block Loot Tables
+// 1.20.1	2024-05-24T19:45:34.5909489	EchoCraft/Block Loot Tables
 29b6ca88251c7e9d417c57254d683a3a13e3c5ab data\echocraft\loot_tables\blocks\ruby_button.json
+b9738f0441575807736196a9db9c0623971cf90f data\echocraft\loot_tables\blocks\corn_crop.json
 ed796ebb085e45de2dd5bf19282934d8f9f9b2a9 data\echocraft\loot_tables\blocks\ruby_ore.json
 849b8a487eae0d2a7284e6ee6be3a31099c9cf10 data\echocraft\loot_tables\blocks\ruby_stairs.json
 cc37190367eb89b7a7e8434555bd99e13419f099 data\echocraft\loot_tables\blocks\ruby_block.json
@@ -13,6 +14,8 @@ f44eeffb2ccbfa45324150859525d1e84f7412f7 data\echocraft\loot_tables\blocks\ruby_
 d949222605f416ae1de5fd41550d17e5da338910 data\echocraft\loot_tables\blocks\ruby_pressure_plate.json
 f9fbd3e1dd8774e24e6fdd43271dcc2e9c5b130d data\echocraft\loot_tables\blocks\ruby_wall.json
 df9efcf59f3e43ebebb40970ef4833895860d7e9 data\echocraft\loot_tables\blocks\raw_ruby_block.json
+80f280334e4142bd5a5c40476afe222d6b8182c7 data\echocraft\loot_tables\blocks\dahlia.json
+d18669cfb02f933e1660e349537ac84182a5481e data\echocraft\loot_tables\blocks\potted_dahlia.json
 c1cfcd9e35b8ba7c8d3af9a4ef3c3eed23941b70 data\echocraft\loot_tables\blocks\nether_ruby_ore.json
-801beccb8bf98a1741756047508962bfacb37188 data\echocraft\loot_tables\blocks\end_stone_ruby_ore.json
 efbdf85b555119bbaade1c08dc2b1b0e3f55b130 data\echocraft\loot_tables\blocks\ruby_slab.json
+801beccb8bf98a1741756047508962bfacb37188 data\echocraft\loot_tables\blocks\end_stone_ruby_ore.json

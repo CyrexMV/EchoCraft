@@ -5,8 +5,11 @@
 
   "item.echocraft.tomato": "Tomato",
   "item.echocraft.tomato_seeds": "Tomato Seeds",
+  "item.echocraft.corn": "Corn",
+  "item.echocraft.corn_seeds": "Corn Seeds",
+
+
   "item.echocraft.coal_briquette": "Coal Briquette",
-  "item.echocraft.asura_sword": "Asura Sword",
 
   "block.echocraft.ruby_block": "Block of Ruby",
   "block.echocraft.raw_ruby_block": "Block of Raw Ruby",
@@ -20,7 +23,6 @@
   "item.echocraft.ruby_shovel": "Ruby Shovel",
   "item.echocraft.ruby_sword": "Ruby Sword",
   "item.echocraft.ruby_hoe": "Ruby Hoe",
-
   "item.echocraft.ruby_helmet": "Ruby Helmet",
   "item.echocraft.ruby_chestplate": "Ruby Chestplate",
   "item.echocraft.ruby_leggings": "Ruby Leggings",
@@ -35,9 +37,12 @@
   "block.echocraft.ruby_wall": "Ruby Wall",
   "block.echocraft.ruby_door": "Ruby Door",
   "block.echocraft.ruby_trapdoor": "Ruby Trapdoor",
-
   "block.echocraft.sound_block": "Sound Block",
 
-  "itemgroup.echocraftblocks": "EchoCraft Blocks",
-  "itemgroup.echocrafttools": "EchoCraft Tools"
+  "itemgroup.echocraftblocks": "Echocraft Deco",
+  "itemgroup.echocrafttools": "EchoCraft Tools",
+  "itemgroup.echocraftfoods": "EchoCraft Foods",
+  "itemgroup.echocraftores": "EchoCraft Ores",
+
+  "block.echocraft.dahlia": "Dahlia"
 }
