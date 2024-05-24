@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "echocraft:ruby_helmet",
+    "echocraft:ruby_chestplate",
+    "echocraft:ruby_leggings",
+    "echocraft:ruby_boots"
+  ]
+}
