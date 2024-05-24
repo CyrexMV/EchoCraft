@@ -2,6 +2,7 @@ package de.cyrex.echocraft.block;
 
 import de.cyrex.echocraft.EchoCraft;
 import de.cyrex.echocraft.block.custom.SoundBlock;
+import de.cyrex.echocraft.block.custom.TomatoCropBlock;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.*;
@@ -37,7 +38,7 @@ public class ModBlocks {
 
     public static final Block RUBY_STAIRS = registerBlock("ruby_stairs",
             new StairsBlock(ModBlocks.RUBY_BLOCK.getDefaultState(), FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
-    
+
     public static final Block RUBY_SLAB = registerBlock("ruby_slab",
             new SlabBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK)));
 
@@ -62,6 +63,9 @@ public class ModBlocks {
 
     public static final Block RUBY_TRAPDOOR = registerBlock("ruby_trapdoor",
             new TrapdoorBlock(FabricBlockSettings.copyOf(Blocks.IRON_BLOCK).nonOpaque(), BlockSetType.IRON));
+
+    public static final Block TOMATO_CROP = Registry.register(Registries.BLOCK, new Identifier(EchoCraft.MOD_ID, "tomato_crop"),
+            new TomatoCropBlock(FabricBlockSettings.copyOf(Blocks.WHEAT)));
 
 
 

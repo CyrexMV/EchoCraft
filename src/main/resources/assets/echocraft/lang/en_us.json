@@ -4,6 +4,7 @@
   "item.echocraft.metal_detector": "Metal Detector",
 
   "item.echocraft.tomato": "Tomato",
+  "item.echocraft.tomato_seeds": "Tomato Seeds",
   "item.echocraft.coal_briquette": "Coal Briquette",
   "item.echocraft.asura_sword": "Asura Sword",
 
@@ -37,5 +38,6 @@
 
   "block.echocraft.sound_block": "Sound Block",
 
-  "itemgroup.echocraft": "EchoCraft"
+  "itemgroup.echocraftblocks": "EchoCraft Blocks",
+  "itemgroup.echocrafttools": "EchoCraft Tools"
 }
